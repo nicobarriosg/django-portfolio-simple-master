@@ -1,0 +1,16 @@
+{
+    "en": {
+        "greeting": "Hello! I'm Nico",
+        "jobTitle": "I'm a programming engineer",
+        "description": "I'm a passionate developer with experience in various areas of IT...",
+        "projects": "Projects",
+        "tools": "Tools"
+    },
+    "es": {
+        "greeting": "¡Hola! Soy Nico",
+        "jobTitle": "Soy ingeniero en programación",
+        "description": "Soy un desarrollador apasionado con experiencia en diversas áreas de TI...",
+        "projects": "Proyectos",
+        "tools": "Herramientas"
+    }
+}
