@@ -1,16 +1,38 @@
 {
     "en": {
         "greeting": "Hello! I'm Nico",
-        "jobTitle": "I'm a programming engineer",
-        "description": "I'm a passionate developer with experience in various areas of IT...",
+        "jobTitle": "I'm a software engineer",
+        "description": "Developer with experience in web and mobile development projects using Django, HTML, CSS, JavaScript, and Android Studio. I have skills in creating minimalist and functional interfaces, optimizing the user experience. I have worked on complex projects applying agile methodologies and UML diagrams, providing efficient and customized solutions for each client.",
         "projects": "Projects",
-        "tools": "Tools"
+        "tools": "Tools",
+        "contacto": "Contact me",
+        "toolslenguajes": "Languages",
+        "toolsherramientas": "Tools",
+        "toolsotros": "Others",
+        "navinicio": "Home",
+        "navherramientas": "Tools",
+        "navprojects": "Projects",
+        "navcontact": "Contact me",
+        "contactoh3": "Contact me",
+        "cv": "Download my resume"
+
     },
     "es": {
         "greeting": "¡Hola! Soy Nico",
-        "jobTitle": "Soy ingeniero en programación",
-        "description": "Soy un desarrollador apasionado con experiencia en diversas áreas de TI...",
+        "jobTitle": "Soy ingeniero en informatica",
+        "description": "Desarrollador con experiencia en proyectos de desarrollo web y móvil usando Django, HTML, CSS, JavaScript y Android Studio. Tengo habilidades en la creación de interfaces minimalistas y funcionales, optimizando la experiencia del usuario. He trabajado en proyectos complejos aplicando metodologías ágiles y diagramas UML, ofreciendo soluciones eficientes y personalizadas para cada cliente.",
         "projects": "Proyectos",
-        "tools": "Herramientas"
+        "tools": "Herramientas",
+        "contacto": "Contáctame",
+        "toolslenguajes": "Lenguajes",
+        "toolsherramientas": "Herramientas",
+        "toolsotros": "Otros",
+        "navinicio": "Inicio",
+        "navherramientas": "Herramientas",
+        "navprojects": "Proyectos",
+        "navcontact": "Contáctame",
+        "contactoh3": "Contactame",
+        "cv": "Descarga mi CV"
+
     }
 }
